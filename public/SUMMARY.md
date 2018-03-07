@@ -4,6 +4,8 @@
 
 # 目录
 
-[1. 编辑器选用](./chapters/1.md)
-[2. 代码风格](./chapters/2.md)
-[3. 开发环境](./chapters/3.md)
+* [1. 编辑器选用](./chapters/1.md)
+* [2. 代码风格](./chapters/2.md)
+* [3. 命令行工具](./chapters/3.md)
+* [4. 统一开发环境](./chapters/4.md)
+* [5. Markdown 语法](./chapters/5.md)
