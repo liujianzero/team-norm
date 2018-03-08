@@ -9,3 +9,4 @@
 * [3. 命令行工具](./chapters/3.md)
 * [4. 统一开发环境](./chapters/4.md)
 * [5. Markdown 语法](./chapters/5.md)
+* [6. 中文文案排版](./chapters/6.md)
