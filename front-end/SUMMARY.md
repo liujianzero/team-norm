@@ -7,3 +7,4 @@
 * [3. CSS](./chapters/3.md)
 * [4. JavaScript](./chapters/4.md)
 * [5. 移动端优化](./chapters/5.md)
+* [6. 扩展相关](./chapters/6.md)
