@@ -21,6 +21,9 @@
 ## 参考
 
 * [Laravel China](https://laravel-china.org)
+* [Markdown 语法](https://github.com/riku/Markdown-Syntax-CN)
+* [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
+* [W3Cschool](https://www.w3cschool.cn/)
 
 ## 许可
 
